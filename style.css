@@ -80,7 +80,7 @@ figure img {
 }
 
 .btn--small {
-  padding: 8px 16px;
+  padding: 8px 12px;
   font-size: 14px;
 }
 /* FEATURES */
@@ -92,6 +92,12 @@ figure img {
 .feautures-text {
   font-size: 18px;
   line-height: 1.7;
+  }
+.features-icon {
+  stroke: #087f5b;
+  width: 32px;
+  height: 32px;
+  margin-bottom: 16px;
 }
 
 /* TESTIMONIAL */
@@ -143,7 +149,11 @@ h3 {
   justify-content: space-between;
   font-size: 20px;
 }
-
+.chair-icon {
+  stroke: #087f5b;
+  width: 24px;
+  height: 24px;
+}
 /*  FOOTER */
 footer {
   margin-bottom: 48px;
